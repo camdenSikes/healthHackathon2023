@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Other
-healthmeas.xlsx
+qualmeas.xlsx
+incomedata.xslx
